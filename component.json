@@ -1,0 +1,10 @@
+{
+    "name": "assertion-error",
+    "description": "Error constructor for test and validation frameworks that implements standardized AssertionError specification.",
+    "repos": "https://github.com/git@github.com:chaijs/assertion-error.git",
+    "main": "index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.1"
+}
